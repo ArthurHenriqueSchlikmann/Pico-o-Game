@@ -1,0 +1,8 @@
+{
+    "cmake.configureEnvironment": {
+        "PICO_SDK_PATH": "/usr/share/pico-sdk"
+    },
+    "C_Cpp.default.includePath": [
+        "/usr/share/pico-sdk/**"
+    ]
+}
