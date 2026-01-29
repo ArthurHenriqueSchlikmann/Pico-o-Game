@@ -7,5 +7,6 @@
 void draw();
 void setfb();
 void cleanfb();
+void initrc();
 
 #endif
