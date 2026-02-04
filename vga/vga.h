@@ -3,9 +3,10 @@
 #define redpin 23
 #define bluepin 24
 #define greenpin 25
+#include <stdint.h>
 
-void draw();
-void setfb();
+
+void draw(uint8_t *fb);
 void cleanfb();
 void initrc();
 

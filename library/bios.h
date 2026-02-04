@@ -8,5 +8,4 @@ bool button(bool button);
 void joystick();
 int getx();
 int gety();
-
 #endif
